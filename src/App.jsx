@@ -5,7 +5,7 @@ import axios from 'axios'
 import UserList from './components/UsersList'
 import UsersForm from './components/UsersForm'
 import Header from './components/Header'
-import Datapng from './assets/pictures/Datapng.png';
+import Datapng from './assets/Pictures/Datapng.png';
 
 function App() {
   const [usersList, setUsersList] = useState([])
